@@ -117,7 +117,7 @@ Save and exit the editor (CTRL+X, then Y, then Enter).
 
 ### 7. Run the Script
 
-You can manually run the script using:
+You can manually run the script using: 
 ```bash
 python3 claim_rewards.py
 ```
@@ -126,7 +126,7 @@ python3 claim_rewards.py
 
 You can automate the script by setting up a cron job to run it regularly. For example, to run the script every day at midnight:
 
-	1.	Open the cron configuration:
+  1.	Open the cron configuration:
 ```bash
 crontab -e
 ```
